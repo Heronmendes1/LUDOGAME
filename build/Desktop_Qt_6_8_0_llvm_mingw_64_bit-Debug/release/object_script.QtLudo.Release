@@ -1,0 +1,16 @@
+release/Pawn.o
+release/Board.o
+release/Game.o
+release/GameWindow.o
+release/Main.o
+release/paint_helper.o
+release/Path.o
+release/Dice.o
+release/ValueError.o
+release/GameScreen.o
+release/SaveGameEngine.o
+release/qrc_resources.o
+release/moc_Pawn.o
+release/moc_GameWindow.o
+release/moc_Dice.o
+release/moc_GameScreen.o

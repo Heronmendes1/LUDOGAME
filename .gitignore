@@ -1,32 +1,15 @@
-# Prerequisites
-*.d
+.directory
+include/.directory
+extra/*
+.fuse_hidden*
 
-# Compiled Object files
-*.slo
-*.lo
+qrc_*.cpp
+ui_*.h
+
 *.o
-*.obj
-
-# Precompiled Headers
-*.gch
-*.pch
-
-# Compiled Dynamic libraries
-*.so
-*.dylib
-*.dll
-
-# Fortran module files
-*.mod
-*.smod
-
-# Compiled Static libraries
-*.lai
-*.la
-*.a
-*.lib
-
-# Executables
-*.exe
-*.out
-*.app
+moc_*.o
+moc_*.cpp
+moc_*.h
+Makefile
+QtLudo
+.qmake.stash

@@ -1,0 +1,15 @@
+debug/Pawn.o
+debug/Board.o
+debug/Game.o
+debug/GameWindow.o
+debug/Main.o
+debug/paint_helper.o
+debug/Path.o
+debug/Dice.o
+debug/ValueError.o
+debug/GameScreen.o
+debug/qrc_resources.o
+debug/moc_Pawn.o
+debug/moc_GameWindow.o
+debug/moc_Dice.o
+debug/moc_GameScreen.o
